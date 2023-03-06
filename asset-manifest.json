@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qrchallenge/static/css/main.3558b274.css",
+    "main.js": "/qrchallenge/static/js/main.957f0957.js",
+    "static/js/787.f42fcf19.chunk.js": "/qrchallenge/static/js/787.f42fcf19.chunk.js",
+    "index.html": "/qrchallenge/index.html",
+    "main.3558b274.css.map": "/qrchallenge/static/css/main.3558b274.css.map",
+    "main.957f0957.js.map": "/qrchallenge/static/js/main.957f0957.js.map",
+    "787.f42fcf19.chunk.js.map": "/qrchallenge/static/js/787.f42fcf19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3558b274.css",
+    "static/js/main.957f0957.js"
+  ]
+}
